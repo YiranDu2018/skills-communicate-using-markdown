@@ -7,3 +7,4 @@
 
 
 ### Das ist ein Text für Probe.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
